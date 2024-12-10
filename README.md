@@ -9,6 +9,24 @@
 ระบบนี้ออกแบบมาเพื่อช่วยให้ผู้ใช้งานมี **คุณภาพการนอนหลับที่ดีขึ้น** .
 
 ---
+## ภาษาและเทคโนโลยีที่ใช้  
+- **ฮาร์ดแวร์**:  
+  - C/C++ สำหรับ Arduino หรือ ESP32
+- **ซอฟต์แวร์**:  
+  - Dart (Flutter) สำหรับการพัฒนาแอปพลิเคชันมือถือ 
+- **เครื่องมือ**:
+  - Arduino IDE หรือ PlatformIO: สำหรับเขียนโค้ดฝั่งฮาร์ดแวร์
+  -Visual Studio Code: สำหรับการเขียนโค้ดซอฟต์แวร์
+
+---
+
+
+## วิดีโอสาธิต
+
+คุณสามารถดูวิดีโอตัวอย่างการใช้งานได้ที่ลิงก์นี้:  
+[![Watch the video demo](https://img.shields.io/badge/Video-Demo-blue)](https://www.canva.com/design/DAGEgzPlehg/12ZENjxx0MbvUlQRnyuC_w/edit?utm_content=DAGEgzPlehg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+-----
 
 ## รูปภาพตัวอย่าง
 
@@ -28,9 +46,3 @@
 </table>
 
 ---
-
-## วิดีโอสาธิต
-
-คุณสามารถดูวิดีโอตัวอย่างการใช้งานได้ที่ลิงก์นี้:  
-[![Watch the video demo](https://img.shields.io/badge/Video-Demo-blue)](https://www.canva.com/design/DAGEgzPlehg/12ZENjxx0MbvUlQRnyuC_w/edit?utm_content=DAGEgzPlehg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
