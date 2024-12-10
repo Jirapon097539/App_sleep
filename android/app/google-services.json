@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291708441514",
+    "project_id": "sleep-baeba",
+    "storage_bucket": "sleep-baeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291708441514:android:40494cf6f535401addd1d3",
+        "android_client_info": {
+          "package_name": "com.example.app_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZf_bRXk-nuWrIvsgFbOjD9ECTSv9zZ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
