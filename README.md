@@ -32,4 +32,5 @@
 ## วิดีโอสาธิต
 
 คุณสามารถดูวิดีโอตัวอย่างการใช้งานได้ที่ลิงก์นี้:  
-[Watch the video demo](https://www.canva.com/design/DAGEgzPlehg/12ZENjxx0MbvUlQRnyuC_w/edit?utm_content=DAGEgzPlehg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Watch the video demo](https://img.shields.io/badge/Video-Demo-blue)](https://www.canva.com/design/DAGEgzPlehg/12ZENjxx0MbvUlQRnyuC_w/edit?utm_content=DAGEgzPlehg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
